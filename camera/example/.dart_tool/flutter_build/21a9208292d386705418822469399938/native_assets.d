@@ -1,0 +1,1 @@
+ C:\\cocked\\br\\packages\\packages\\camera\\camera\\example\\.dart_tool\\flutter_build\\21a9208292d386705418822469399938\\native_assets.yaml: 
